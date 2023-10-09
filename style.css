@@ -84,10 +84,9 @@
 .three{
     background-color: #E5E7EB;
     display: flex;
-    padding: 60px;
+    padding: 60px 200px;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
    
 }
 .three .text{
@@ -95,10 +94,12 @@
     font-weight: light;
     font-family: 'Times New Roman', Times, serif;
     color: #1F2937;
-    width: 60%;
+    width: 80%;
+    
 }
 .three .author{
-    text-align: end;
+    width: 80%;
+    text-align: right;
 }
 
 .four{
